@@ -22,10 +22,10 @@ def display_banner():
 {4}░░░░░ ░░░░░             ░░░░░░░░░  ░░░░░   ░░░░░ ░░░░░   ░░░░░ ░░░░░    ░░░░░   ░░░░░░░░░  ░░░░░░░░░░ ░░░░░   ░░░░░{0}
 
                   {1}{5}================                                   {1}{5}======================
-                    {3}{5}Version: {2}2.0{2}                                      {3}{5}Code Author: {2}isPique
+                    {3}{5}Version: {2}2.0{2}                                      {3}{5}Code Author: GUNJA RAHUL
                   {1}{5}================                                   {1}{5}======================
 
-                                 {3}{5}GitHub Profile {2}:{0}{1} https://github.com/isPique{0}
+                                 
           '''.format(DEFAULT, GREEN, RED, YELLOW, YELLOW2, ITALIC))
 
 def main():
